@@ -1,6 +1,9 @@
 # NovaFlix GPT
 - create-react-app
 - configured Tailwind CSS
+- Header
+ - Sign In
+ - Sign Up
 
 # Features
  - Login/sign Up
