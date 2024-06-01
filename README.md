@@ -2,8 +2,12 @@
 - create-react-app
 - configured Tailwind CSS
 - Header
+ - routing
  - Sign In
  - Sign Up
+ - useRef
+ - deploying our app to production
+
 
 # Features
  - Login/sign Up
